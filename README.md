@@ -92,34 +92,21 @@ Developing modern, production-ready web applications using React, Next.js, TypeS
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [yeshagevariya/sanke](https://github.com/yeshagevariya/sanke)_
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeshagevariya&theme=algolia&margin-w=15)](...)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeshagevariya/yeshagevariya/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yeshagevariya&theme=tokyonight)](...)
-
----
-
-## 💡 Currently Working On
+## 💡 Currently
 - 🔭 Building AI-powered web applications
 - 🧠 Exploring RAG systems and LLM integrations
 - ⚡ Improving frontend performance and Core Web Vitals
 - 🌍 Open to remote opportunities and frontend engineering roles
 - ☕ Code, learn, repeat.
-
